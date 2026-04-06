@@ -4,7 +4,7 @@
 DEVOPS-2
 
 ## Goal
-Deploy a static site using Nginx
+Deploy a static site using Nginx.
 
 ## Steps
 - install Nginx
