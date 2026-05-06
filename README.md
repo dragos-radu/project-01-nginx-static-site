@@ -18,7 +18,7 @@ Deploy a static site using Nginx.
 - Jira
 
 ## Status
-In progress
+Completed
 
 ---
 
