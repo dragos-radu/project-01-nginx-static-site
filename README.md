@@ -10,5 +10,12 @@ Deploy a static site using Nginx.
 - install Nginx
 - serve html
 
+## Tech Stack
+- AWS EC2
+- Ubuntu
+- Nginx
+- Github
+- Jira
+
 ## Status
 In progress
